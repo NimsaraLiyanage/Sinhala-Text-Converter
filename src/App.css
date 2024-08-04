@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  padding: 50px 20px;
+  min-height: 100vh;
+}
